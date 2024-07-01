@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['coins', 'sunshine', 'zombies']
+
+#roboflow:
+#  workspace: test1-nm6ts
+#  project: plants-vs.-zombies
+#  version: 2
+#  license: CC BY 4.0
+#  url: https://universe.roboflow.com/test1-nm6ts/plants-vs.-zombies/dataset/2
